@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkapp"]=self["webpackChunkapp"]||[]).push([[303],{5303:function(e,n,u){u.r(n),u.d(n,{default:function(){return s}});var r=function(){var e=this,n=e.$createElement,u=e._self._c||n;return u("div",[e._v("团购组件")])},t=[],l={name:"GroupOrder"},a=l,p=u(5471),c=(0,p.Z)(a,r,t,!1,null,null,null),s=c.exports}}]);
